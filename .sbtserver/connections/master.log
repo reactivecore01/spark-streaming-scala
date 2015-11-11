@@ -1,0 +1,7 @@
+New log file opened at Wed Nov 11 12:07:54 EST 2015 by 1600@michel-laptop
+Taking next connection to: 51814
+New client attempting to connect on port: 51078-51814
+  Address = /127.0.1.1:51814
+This client on port 51078 has uuid 3aae1137-85f2-451c-866c-388d7f0b7f00 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-3aae1137-85f2-451c-866c-388d7f0b7f00
+Taking next connection to: 51814
